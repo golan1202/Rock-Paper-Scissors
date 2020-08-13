@@ -1,0 +1,4 @@
+golan 1000
+zvi 100
+shlomi 200
+ofir 450
